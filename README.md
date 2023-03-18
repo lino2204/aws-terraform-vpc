@@ -1,1 +1,3 @@
-# aws-terraform-vpc
+# AWS Terraform VPC
+
+Terraform module to build a VPC in AWS
